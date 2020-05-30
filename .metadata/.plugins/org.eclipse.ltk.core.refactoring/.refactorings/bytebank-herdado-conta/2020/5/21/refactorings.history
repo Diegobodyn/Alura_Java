@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;SaldoInsulficienteException.java&apos; to &apos;SaldoInsuficienteException.java&apos;&#x0D;&#x0A;- Original project: &apos;bytebank-herdado-conta&apos;&#x0D;&#x0A;- Original element: &apos;SaldoInsulficienteException.java&apos;&#x0D;&#x0A;- Renamed element: &apos;SaldoInsuficienteException.java&apos;" description="Rename compilation unit &apos;SaldoInsulficienteException.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;{SaldoInsulficienteException.java" name="SaldoInsuficienteException.java" references="false" stamp="1589934253750" version="1.0"/>
+</session>
