@@ -1,0 +1,21 @@
+package br.com.bytebank.banco.test.util;
+
+public class TesteOutrosWrappers {
+
+	public static void main(String[] args) {
+		
+		Integer idadeRef = Integer.valueOf(29); // autoboxing
+		System.out.println(idadeRef.intValue()); //unboxing
+		
+		Double bRef = Boolean.FALSE; //autoboxing
+		System.out.println(bRef.doubleValue()); //unboxing
+		
+		Number refNumero = Float.valueOf(29.9f);
+		
+		List<Nubmer> lista = new ArrayList<>();
+		lista.add(10);
+		lsita.add(32.6);
+		lista.add(25.6f);
+		
+	}
+}
